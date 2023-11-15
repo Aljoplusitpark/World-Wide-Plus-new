@@ -502,146 +502,7 @@
    
 
     <!-- End our strength -->
-<br><br>
-    <div class="cs-moving_text_wrap cs-bold cs-primary_font">
-      <div class="cs-moving_text_in">
-        <div class="cs-moving_text">Technologies Implemented</div>
-        <div class="cs-moving_text">Technologies Implemented</div>
-      </div>
-    </div>
 
-    <div class="cs-height_100 cs-height_lg_70"></div>
-    <!-- Start Partner Logo -->
-    <div class="technology container" >
-    <div class="container">
-      <div class="cs-partner_logo_wrap">
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/html.svg" alt="Partner" width="80px" height="100px" >
-          <p id="techpara" style="text-align: center;">HTML</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/css1.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center;">CSS</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/bootstrap.svg" alt="Partner" width="80px" height="100px" >
-          <p id="techpara" style="text-align: center; margin-top: 35px; ">BOOTSTRAP</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/javascript.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center; ">JAVASCRIPT</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/node.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center;  margin-top: 55px;">NODE.JS</p>
-        </div>
-      </div>
-    </div>
-    <br><br>
-    <div class="container">
-      <div class="cs-partner_logo_wrap">
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/django.svg" alt="Partner" width="60px" height="80px">
-          <p id="techpara" style="text-align: center;">DJANGO</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/mysql.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center;">MYSQL</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/php.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center;">PHP</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/laravel.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center;">LARAVEL</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/wordpress.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center;">Wordpress</p>
-        </div>
-      </div>
-    </div>
-<br><br>
-    <div class="container">
-      <div class="cs-partner_logo_wrap">
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/solidity.svg" alt="Partner" width="50px" height="100px">
-          <p id="techpara" style="text-align: center;">Solidity</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/python.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center;">Python</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/aws.svg" alt="Partner" width="100px" height="150px">
-          <p id="techpara" style="text-align: center; margin-top: 40px;">AWS</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/express.png" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center;">Express</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/flutter.svg" alt="Partner" width="65px" height="100px">
-          <p id="techpara" style="text-align: center;">Flutter</p>
-        </div>
-      </div>
-    </div>
-
-    <br><br>
-    <div class="container">
-      <div class="cs-partner_logo_wrap">
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/double_arrow_icon.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center; margin-top: 40px;">Cloud</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/hostinger.svg" alt="Partner" width="60px" height="100px">
-          <p id="techpara" style="text-align: center; margin-top: 40px;">Hostinger</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/mongo.svg" alt="Partner" width="100px" height="100px">
-          <p id="techpara" style="text-align: center; margin-top: 10px;">MongoDb</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/react.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center;">React</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/angular.svg" alt="Partner" width="70px" height="100px">
-          <p id="techpara" style="text-align: center; margin-top: 40px;">Angular</p>
-        </div>
-      </div>
-    </div>  
-
-    <br><br><br>
-    <div class="container">
-      <div class="cs-partner_logo_wrap">
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/firebase.svg" alt="Partner" width="60px" height="100px">
-          <p id="techpara" style="text-align: center; ">Firebase</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/vue.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center; margin-top: 34px;">Vue</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/jet.svg" alt="Partner" width="70px" height="100px">
-          <p id="techpara" style="text-align: center; ">Jet Composer
-          </p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/vultr.png" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center; ">Vultr</p>
-        </div>
-        <div class="cs-partner_logo">
-          <img src="assets/img/icons/angular.svg" alt="Partner" width="80px" height="100px">
-          <p id="techpara" style="text-align: center; ">Cloud</p>
-        </div>
-      </div>
-    </div>  
-    </div>
-    <!-- End Partner Logo -->
 
     <!-- <div class="cs-height_145 cs-height_lg_80"></div> -->
     <!-- Start Team Section -->
@@ -665,9 +526,9 @@
           <div class="cs-shape_1"></div>
           <div class="cs-shape_1"></div>
           <div class="cs-cta_in">
-            <h2 class="cs-cta_title cs-semi_bold cs-m0">Let’s disscuse make <br>something <i>cool</i> together </h2>
+            <h2 class="cs-cta_title cs-semi_bold cs-m0">Let’s Discuss make <br>Something <i>Cool</i> Together </h2>
             <div class="cs-height_70 cs-height_lg_30"></div>
-            <a href="contact.html" class="cs-text_btn">
+            <a href="#" class="cs-text_btn">
               <span>Apply For Meeting</span>
               <svg width="26" height="12" viewBox="0 0 26 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M25.5307 6.53033C25.8236 6.23744 25.8236 5.76256 25.5307 5.46967L20.7577 0.696699C20.4648 0.403806 19.99 0.403806 19.6971 0.696699C19.4042 0.989593 19.4042 1.46447 19.6971 1.75736L23.9397 6L19.6971 10.2426C19.4042 10.5355 19.4042 11.0104 19.6971 11.3033C19.99 11.5962 20.4648 11.5962 20.7577 11.3033L25.5307 6.53033ZM0.000366211 6.75H25.0004V5.25H0.000366211V6.75Z" fill="currentColor" />

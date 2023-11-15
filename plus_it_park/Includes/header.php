@@ -9,7 +9,7 @@
                 <img src="assets/img/logoo.png" alt="Logo" >
               </a>
             </div>
-            <div class="cs-main_header_center">
+            <div class="">
               <div class="cs-nav cs-primary_font cs-medium">
                 <ul class="cs-nav_list">
                   <!-- <li class= " cs-mega_menu"><a href="index.html"><img src="assets/img/logoo.png" alt="Logo" style="height: auto; width: 130px;"></a></li> -->
@@ -64,15 +64,18 @@
                       <li><a href="#">Testimonials</a></li>
                     </ul>
                   </li>
+                  <li><a href="#"><i class="fa-solid fa-magnifying-glass"></i></a></li>
+                  <li><a href="#"><i class="fa-solid fa-bookmark"></i></li>
+                  <li class="#"><a href="">Lets Talk</a></li>
                   <div class="cs-main_header_right">
                     <div class="cs-toolbox">
-                      <button class="btn" style="color:white;"><a href="contact.php">Lets Talk</a></button>
+                      <button class="btn" style="color:white;"><a href="#">Estimate</a></button>
                     </div>
                   </div>
                 </ul>
               </div>
             </div>
-            <div class="cs-main_header_right">
+            <!-- <div class="cs-main_header_right">
               <div class="cs-toolbox">
                 <span class="cs-icon_btn">
                   <span class="cs-icon_btn_in">
@@ -83,7 +86,7 @@
                   </span>
                 </span>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
