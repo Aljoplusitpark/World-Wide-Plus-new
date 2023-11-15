@@ -392,7 +392,7 @@
             <div class="cs-height_0 cs-height_lg_35"></div>
             <div class="cs-section_heading cs-style1 ">
               <h3 class="cs-section_subtitle">Project 04</h3>
-              <h2 class="cs-section_title">Website </h2>
+              <h2 class="cs-section_title">Website Can't be Hacked</h2>
               <div class="cs-height_45 cs-height_lg_20"></div>
               <a href="" class="cs-text_btn wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">
                 <span>See Details</span>
