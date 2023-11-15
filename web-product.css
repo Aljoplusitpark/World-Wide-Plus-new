@@ -68,7 +68,7 @@
   justify-content: center;
 }
 .web-product-content-right img {
-  width: 40%;
+  width: 90%;
 }
 
 .separating-us-container {
@@ -154,7 +154,7 @@
 .about-us-content {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr .5fr;
   gap: 20px;
   align-items: center;
   justify-content: center;
@@ -192,7 +192,8 @@
   justify-content: center;
 }
 .about-us-right img {
-  width: 40%;
+  width: 90%;
+  border-radius: 12px;
 }
 .our-clan-container {
   width: 100%;
@@ -700,5 +701,59 @@ border-radius: 25px;
     font-weight: 700;
     text-align: center;
     width: 90%;
+  }
+}
+
+.sliderSep-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.sliderSep {
+  width: 100%;
+  overflow-x: scroll;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  scroll-behavior: smooth;
+
+}
+
+.sliderSep .cardSep {
+  flex: 0 0 auto;
+  width: 100vw; /* Make each card take up the full width of the viewport */
+  height: 100vh;
+  padding: 100px;
+}
+
+.sliderSep::-webkit-scrollbar {
+  display: none;
+}
+
+.sliderSep-container .fa-arrow-left {
+  position: absolute;
+  top: 50%;
+  left: 30px;
+  font-size: 30px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.sliderSep-container .fa-arrow-right {
+  position: absolute;
+  top: 50%;
+  right: 30px;
+  font-size: 30px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {
+  .sliderSep .cardSep {
+    height: 135vh;
+  }
+  .sliderSep .cardSep {
+    padding: 30px;
   }
 }
