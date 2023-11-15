@@ -14,7 +14,7 @@
                 <ul class="cs-nav_list">
                   <!-- <li class= " cs-mega_menu"><a href="index.html"><img src="assets/img/logoo.png" alt="Logo" style="height: auto; width: 130px;"></a></li> -->
 
-                  <li class= " cs-mega_menu"><a href="index.php">Home</a></li>
+                  <li class= " cs-mega_menu"><a href="../index.html">Home</a></li>
                   
                   <li class="menu-item-has-children">
                     <a href="about.php">About Us</a>
