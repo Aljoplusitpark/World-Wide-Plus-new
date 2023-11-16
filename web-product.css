@@ -1,6 +1,6 @@
 .stack__card.web-contents {
   width: 100%;
-  height: 1200vh;
+  height: 1000vh;
   display: flex;
   flex-direction: column;
   align-items: center;

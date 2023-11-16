@@ -5,14 +5,14 @@
         <div class="container">
           <div class="cs-main_header_in">
             <div class="cs-main_header_left">
-              <a class="cs-site_branding" href="index.html">
+              <a class="cs-site_branding" href="../index.html">
                 <img src="assets/img/logoo.png" alt="Logo" >
               </a>
             </div>
             <div class="">
               <div class="cs-nav cs-primary_font cs-medium">
                 <ul class="cs-nav_list">
-                  <!-- <li class= " cs-mega_menu"><a href="index.html"><img src="assets/img/logoo.png" alt="Logo" style="height: auto; width: 130px;"></a></li> -->
+                  <!-- <li class= " cs-mega_menu"><a href="../index.html"><img src="assets/img/logoo.png" alt="Logo" style="height: auto; width: 130px;"></a></li> -->
 
                   <li class= " cs-mega_menu"><a href="../index.html">Home</a></li>
                   
@@ -96,7 +96,7 @@
       <div class="cs-side_header_overlay"></div>
       <div class="cs-side_header_in" style="width:1200px;">
         <div class="cs-side_header_shape"></div>
-        <a class="cs-site_branding" href="index.html">
+        <a class="cs-site_branding" href="../index.html">
           <img src="assets/img/logoo.png" alt="Logo">
         </a>
         <div class="cs-side_header_box">
