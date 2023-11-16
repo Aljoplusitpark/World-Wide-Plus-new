@@ -46,6 +46,7 @@ body {
 }
 .internship-home-header.dm{
   background: url("./assets/images/dm-internship.png");
+  background-size: cover;
 }
 .internship-home-header-content {
   display: flex;
