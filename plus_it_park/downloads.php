@@ -29,7 +29,7 @@
   <!-- End Header Section -->
   
   <!-- Start Hero -->
-  <div class="cs-page_heading cs-style1 cs-center text-center cs-bg" data-src="assets/img/sbg7.png">
+  <div class="cs-page_heading cs-style1 cs-center text-center cs-bg" data-src="assets/img/brochures/download.jpg">
     <div class="container">
       <div class="cs-page_heading_in">
         <h1 class="cs-page_title cs-font_50 cs-white_color">Download</h1>
@@ -48,7 +48,7 @@
           <div class="col-lg-4 col-sm-6">
             <div class="cs-product_card cs_style_1">
               <div class="cs-product_thumb">
-                <img src="assets/img/shop/product_1.jpeg" alt="Product">
+                <img src="assets/img/brochures/plus.jpg" alt="Product">
                 <div class="cs-product_overlay"></div>
                 <div class="cs-card_btns">
                   <a href="">
@@ -75,7 +75,7 @@
                 </div>
               </div>
               <div class="cs-product_info">
-                <h2 class="cs-product_title" style="text-align: center;"><a target="-blank" href="assets/img/brochures/DSF.pdf">Digital Management Services Solution-DMSS</a></h2>
+                <h2 class="cs-product_title" style="text-align: center;"><a target="-blank" href="assets/img/brochures/DSF.pdf">Digital Sales Force - DSF</a></h2>
                 
               </div>
             </div>
@@ -84,7 +84,7 @@
           <div class="col-lg-4 col-sm-6">
             <div class="cs-product_card cs_style_1">
               <div class="cs-product_thumb">
-                <img src="assets/img/shop/product_3.jpeg" alt="Product">
+                <img src="assets/img/brochures/digital.jpg" alt="Product">
                 <div class="cs-product_overlay"></div>
                 <div class="cs-card_btns">
                   <a href="#">
@@ -102,7 +102,7 @@
           <div class="col-lg-4 col-sm-6">
             <div class="cs-product_card cs_style_1">
               <div class="cs-product_thumb">
-                <img src="assets/img/shop/product_4.jpeg" alt="Product">
+                <img src="assets/img/brochures/sathoshi.jpg" alt="Product">
                 <div class="cs-product_overlay"></div>
                 <div class="cs-card_btns">
                   <a href="#">
@@ -120,7 +120,7 @@
           <div class="col-lg-4 col-sm-6">
             <div class="cs-product_card cs_style_1">
               <div class="cs-product_thumb">
-                <img src="assets/img/shop/product_5.jpeg" alt="Product">
+                <img src="assets/img/brochures/web3.jpg" alt="Product">
                 <div class="cs-product_overlay"></div>
                 <div class="cs-card_btns">
                   <a href="#">
@@ -138,7 +138,7 @@
           <div class="col-lg-4 col-sm-6">
             <div class="cs-product_card cs_style_1">
               <div class="cs-product_thumb">
-                <img src="assets/img/shop/product_6.jpeg" alt="Product">
+                <img src="assets/img/brochures/web.jpg" alt="Product">
                 <div class="cs-product_overlay"></div>
                 <div class="cs-card_btns">
                   <a target="-blank" href="assets/img/brochures/web_development.pdf">
@@ -157,7 +157,7 @@
           <div class="col-lg-4 col-sm-6">
             <div class="cs-product_card cs_style_1">
               <div class="cs-product_thumb">
-                <img src="assets/img/shop/product_7.jpeg" alt="Product">
+                <img src="assets/img/brochures/flutter.jpg" alt="Product">
                 <div class="cs-product_overlay"></div>
                 <div class="cs-card_btns">
                   <a href="#">
