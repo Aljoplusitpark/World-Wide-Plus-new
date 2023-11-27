@@ -187,7 +187,7 @@
                 <ul class="cs-menu_widget cs-mp0">
                   <li><a href="#">Plus IT Business Park Thrissur, Kerala</a></li>
                   <li><a href="#">info@plusitpark.com</a></li>
-                  <li><a href="#">+91 **********</a></li>
+                  <li><a href="#">+91 9072543055</a></li>
                   <li><a href="#">www.plusitpark.com</a></li>
                   <!-- <li><a href="#">Interactive Web Designing</a></li> -->
                   <!-- <li><a href="#">Backend Solution</a></li> -->

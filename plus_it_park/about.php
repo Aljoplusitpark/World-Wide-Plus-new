@@ -27,7 +27,7 @@
     
     <!-- End Header Section -->
     <!-- Start Hero -->
-    <div class="cs-page_heading cs-style1 cs-center text-center cs-bg" data-src="assets/img/about/about-3.jpeg">
+    <div class="cs-page_heading cs-style1 cs-center text-center cs-bg" data-src="assets/img/about/about-3.jpg">
       <!-- <div class="container">
         <div class="cs-page_heading_in">
           <h1 class="cs-page_title cs-font_50 cs-white_color">About Us</h1>

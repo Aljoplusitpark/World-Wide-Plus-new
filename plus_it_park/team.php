@@ -20,9 +20,9 @@
 </head>
 
 <body>
-  <!-- <div class="cs-preloader cs-center">
+  <div class="cs-preloader cs-center">
     <div class="cs-preloader_in"></div>
-  </div> -->
+  </div>
   <!-- Start Header Section -->
   <?php include("includes/header.php") ?>
   

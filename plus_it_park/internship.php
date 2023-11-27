@@ -123,8 +123,8 @@
           <ul class="cs-mp0 cs-center">
             <!-- <li class="active">
               <a href="#" data-filter="*">All</a>
-            </li> -->
-            <!-- <li class="active">
+            </li>
+            <li class="active">
               <a href="#" data-filter=".wedding">Web 3 Development</a>
             </li>
             <li>
@@ -135,8 +135,8 @@
             </li>
             <li>
               <a href="#" data-filter=".commercial">Digital Marketing</a>
-            </li> -->
-            <!-- <li>
+            </li>
+            <li>
               <a href="#" data-filter=".landscape">Landscape</a>
             </li>
             <li>
