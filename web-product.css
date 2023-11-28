@@ -789,7 +789,7 @@ border-radius: 25px;
  padding: 16px 24px 16px 28px;
  transform: translate(0px, 0px) rotate(0deg);
  transition: 0.2s;
- box-shadow: -4px -2px 16px 0px #ffffff, 4px 2px 16px 0px rgb(95 157 231 / 48%);
+ box-shadow: -4px -2px 16px 0px #f2f2f2, 4px 2px 16px 0px rgb(95 157 231 / 48%);
  text-decoration: none;
 }
 
