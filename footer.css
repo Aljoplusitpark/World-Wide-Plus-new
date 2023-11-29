@@ -176,12 +176,16 @@
     .footer-lists{
         padding-left: 20px;
     }
-    .footer-bottom-link{
-    width: 40%;
-    display: flex ;
-    gap: 50px;
-    align-items: end;
-    justify-content: flex-end;
-
+.footer-bottom-link {
+    width: 100%;
+    display: flex;
+    gap: 16px;
+    align-items: start;
+    justify-content: flex-start;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.footer-bottom {
+    flex-direction: column;
 }
 }
