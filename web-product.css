@@ -460,7 +460,7 @@ border-radius: 25px;
   display: flex;
   flex-direction: column;
   gap: 20px;
-  padding: 0% 8%;
+  padding: 8% 8%;
   color: var(--white);
   margin: 60px 0;
 }
@@ -494,11 +494,11 @@ border-radius: 25px;
 }
 @media screen and (max-width: 768px) {
   .stack__card.web-contents {
-    height: 1400vh;
+    height: 1420vh;
   }
   .web-product-container {
     width: 100%;
-    height: 160vh;
+    height: unset;
   }
   .web-product-header h3 {
     font-size: 1.8rem;
@@ -531,10 +531,10 @@ border-radius: 25px;
 
   .separating-us-container {
     width: 100%;
-    height: 250vh;
+   min-height: 80vh;
   }
   .sliderSep-container{
-        height: 250vh;
+        height: unset;
   }
   .separating-us-header h3 {
     font-size: 1.8rem;
@@ -550,14 +550,17 @@ border-radius: 25px;
     gap: 30px;
     align-items: center;
     justify-content: center;
-    margin: 60px 0;
-    height:max-content;
+    margin: 0;
+   height: unset;
   }
+  .separating-us-content-left p {
+    margin-bottom: 0px;
+}
   .separating-us-content-left {
     justify-self: flex-start;
     align-self: flex-start;
     position: relative;
-    height: 100vh;
+    min-height: 100vh;
   }
   .separating-us-content-left h3 {
     font-size: 2.8rem;
@@ -568,7 +571,10 @@ border-radius: 25px;
   .separating-us-content-right img {
     width: 90%;
   }
-
+.stack-cards-container {
+    
+    margin:0;
+}
   .about-us-content {
     width: 100%;
     display: grid;
@@ -766,7 +772,7 @@ border-radius: 25px;
 
 @media (max-width: 767px) {
   .sliderSep .cardSep {
-    height: 135vh;
+    min-height: 155vh;
   }
   .sliderSep .cardSep {
     padding: 30px;
