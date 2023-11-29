@@ -45,16 +45,16 @@ body{
   background-repeat: no-repeat;
 }
 .stack__card:nth-child(2) {
-  background-color: #38c172;
+  background-color: black;
 }
 .stack__card:nth-child(3) {
-  background-color: #3490dc;
+  background-color: black;
 }
 .stack__card:nth-child(4) {
-  background-color: #f66d9b;
+ background-color: black;
 }
 .stack__card:nth-child(5) {
-  background-color: #353535;
+   background-color: black;
 }
 
 nav {
