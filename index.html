@@ -178,14 +178,16 @@
           </div>
           <div class="web-product-content">
             <div class="web-product-content-left">
-              <p style="text-align:justify; font-size: 20px;">
-                Web 3.0 is a term used to describe the next iteration of the internet, one that is built on blockchain technology and is communally controlled by its users. 3D illustration of a human hand and a digital hand reaching through geometric portals and touching finger tips at the center of the frame.
+              <p style="text-align:justify; font-size: 20px;" id="text-to-change3">
+                Web 3.0 is a term used to describe the next iteration of the internet, one that is built on blockchain technology and is communally controlled by its users. 3D illustration of a human hand and a digital hand reaching through geometric portals and touching fingertips at the center of the frame.
               </p>
             </div>
             <div class="web-product-content-right">
-              <img src="./assets/images/c1.jpg" alt="" />
+              <img class="blog-svg" src="./assets/images/blob.svg" alt="" />
+              <img class="blog-image" id="blog-image" src="https://imitpark.com/webimg/banner04.webp" alt="">
             </div>
           </div>
+          
         </div>
         <div class="sliderSep-container">
 
@@ -1024,6 +1026,45 @@ function addAnimation() {
     });
   });
 }
+const web3Array = [
+        "Feel the energy of reaching shores of Digital ocean of opportunities..",
+        "Be confident and comfortable with the security features for your internet products.",
+        "Maintain the flow and the culture of your business.",
+        "Explore and expand your market to the digital horizon.",
+        "Have differentiated Insights always for the cryptosphere.",
+        "The art of process optimization Engineering.",
+        "Start your Digital life journey with",
+      ];
+const web3ImageArray = [
+        "https://imitpark.com/webimg/banner04.webp",
+        "https://imitpark.com/webimg/banner01.webp",
+        "https://imitpark.com/webimg/banner04.webp",
+        "https://imitpark.com/webimg/banner01.webp",
+        "https://imitpark.com/webimg/banner01.webp",
+        "https://imitpark.com/webimg/banner04.webp",
+        "https://imitpark.com/webimg/banner01.webp",
+     
+      ];
+
+      const TextToChange3 = document.getElementById("blog-image");
+const BlogToChange3 = document.getElementById("text-to-change3");
+
+let index3 = 0;
+let index4 = 0;
+
+function changeText3() {
+  TextToChange3.src = web3ImageArray[index3];
+  index3 = (index3 + 1) % web3ImageArray.length;
+}
+
+function changeBlog() {
+  BlogToChange3.textContent = web3Array[index4];
+  index4 = (index4 + 1) % web3Array.length;
+}
+
+setInterval(changeText3, 5000); // 5 seconds
+setInterval(changeBlog, 5000); // 5 seconds
+
 // const sliderSep = document.querySelector(".sliderSep");
 //         let cardSepWidth = document.querySelector(".cardSep").offsetWidth;
 
