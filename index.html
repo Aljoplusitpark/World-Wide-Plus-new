@@ -42,16 +42,20 @@
                 <li><a href="plus_it_park/openings.php">OPENINGS</a></li>
                 <li><a href="plus_it_park/internship.php">CAREERS</a></li>
                 <li><a href="plus_it_park/downloads.php">DOWNLOADS</a></li>
-                <!-- <li class="more">
-                      <span><a href="#">More</a>
-                        <i class="fa-solid fa-chevron-down more-arrow"></i>
+                <li class="more">
+                      <span><a href="#">ORGANIZATION <i class="fa-solid fa-chevron-down more-arrow"></i></a>
+                        
                     </span>
                       <ul class="more-sub-menu sub-menu">
-                        <li><a href="#">Neumorphism</a></li>
-                        <li><a href="#">Pre-loader</a></li>
-                        <li><a href="#">Glassmorphism</a></li>
+                        <li><a href="#">TYPE O7 TECHNOCRATS (#TOTS)</a></li>
+                        <li><a href="#">WEB UPDATES (WUS)</a></li>
+                        <li><a href="#">DIGITAL SALES FORCE (DSF)</a></li>
+                        <li><a href="#">DE SCHOOLING</a></li>
+                        <li><a href="#">LANGAA</a></li>
+                        <li><a href="#">9 3/4 QUARTERS</a></li>
+                        <li><a href="#">SATHOSHI GANG</a></li>
                       </ul>
-                    </li> -->
+                    </li>
               </ul>
             </li>
             <li>
@@ -67,19 +71,13 @@
                 <li><a href="#">PROFESSIONAL INTERNSHIPS</a></li>
               </ul>
             </li>
-            <li>
+            <!-- <li>
               <a href="#">ORGANIZATION</a>
               <i class="fa-solid fa-chevron-down js-arrow"></i>
               <ul class="js-sub-menu sub-menu">
-                <li><a href="#">TYPE O7 TECHNOCRATS (#TOTS)</a></li>
-                <li><a href="#">WEB UPDATES (WUS)</a></li>
-                <li><a href="#">DIGITAL SALES FORCE (DSF)</a></li>
-                <li><a href="#">DE SCHOOLING</a></li>
-                <li><a href="#">LANGAA</a></li>
-                <li><a href="#">9 3/4 QUARTERS</a></li>
-                <li><a href="#">SATHOSHI GANG</a></li>
+       
               </ul>
-            </li>
+            </li> -->
             <li>
               <a href="#">LIFE AT PLUS IT PARK</a>
               <i class="fa-solid fa-chevron-down js-arrow"></i>
@@ -152,6 +150,7 @@
               <h3></h3>
               <p></p>
               <a class="btn-53">Explore more</a>
+                            <video autoplay muted loop></video>
             </div>
           </div>
         </div>
@@ -773,12 +772,16 @@ window.addEventListener("scroll", handleScroll);
           const screenContentButton = document.querySelector(
           ".service-screen-content a"
         );
+        const screenContentVideo = document.querySelector(
+          ".service-screen-content video"
+        );
         const scrollHeight = window.scrollY;
 
         if (scrollHeight < window.innerHeight * 2) {
           screenContentHeading.textContent = "";
           screenContentText.textContent = "";
             screenContentButton.textContent = "";
+            screenContentVideo.src=""
           screenContentText.classList.remove("focus-in-expand-fwd");
           screenContentHeading.classList.remove("focus-in-expand-fwd");
            screenContentButton.classList.remove("focus-in-expand-fwd");
@@ -791,6 +794,7 @@ window.addEventListener("scroll", handleScroll);
             "Every eye catching events have an rhythm: The rhythm that strucks eyelids design the future insights with the masters of design crats ";
           screenContentHeading.textContent = "Design";
           screenContentButton.href = "about.php";
+          screenContentVideo.src="./assets/videos/butterFly.mp4"
             screenContentButton.textContent = "Explore Now";
           screenContentText.classList.add("focus-in-expand-fwd");
            screenContentButton.classList.add("btn-53");
@@ -804,6 +808,7 @@ window.addEventListener("scroll", handleScroll);
             "Builds that suit processors, bringing optimum results with high-level security, developing future codes, and needing understanding of the actuals";
           screenContentHeading.textContent = "Development";
              screenContentButton.textContent = "Explore Now";
+             screenContentVideo.src="./assets/videos/butterFly.mp4"
              screenContentButton.classList.add("btn-53");
           screenContentButton.href = "about.php";
           screenContentText.classList.add("focus-in-expand-fwd");
@@ -818,6 +823,7 @@ window.addEventListener("scroll", handleScroll);
           screenContentHeading.textContent = "Deschooling";
           screenContentButton.href = "about.php";
           screenContentButton.textContent = "Explore Now";
+          screenContentVideo.src="./assets/videos/butterFly.mp4"
           screenContentText.classList.add("focus-in-expand-fwd");
           screenContentHeading.classList.add("focus-in-expand-fwd");
           screenContentButton.classList.add("focus-in-expand-fwd");
@@ -831,6 +837,7 @@ window.addEventListener("scroll", handleScroll);
           screenContentHeading.textContent = "Digital Marketing";
              screenContentButton.textContent = "Explore Now";
           screenContentButton.href = "about.php";
+          screenContentVideo.src="./assets/videos/butterFly.mp4"
           screenContentText.classList.add("focus-in-expand-fwd");
           screenContentHeading.classList.add("focus-in-expand-fwd");
           screenContentButton.classList.add("focus-in-expand-fwd");
@@ -839,6 +846,8 @@ window.addEventListener("scroll", handleScroll);
           screenContentText.textContent = "";
           screenContentHeading.textContent = "";
            screenContentButton.textContent = "";
+           screenContentVideo.src=""
+           
           screenContentText.classList.remove("focus-in-expand-fwd");
           screenContentHeading.classList.remove("focus-in-expand-fwd");
           screenContentButton.classList.remove("focus-in-expand-fwd");
