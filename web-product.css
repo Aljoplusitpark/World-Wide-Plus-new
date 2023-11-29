@@ -73,8 +73,13 @@
   align-items: center;
   justify-content: center;
 }
-.web-product-content-right img {
-  width: 90%;
+.web-product-content-right .blob-svg {
+  width: 60%;
+  position: relative;
+}
+.web-product-content-right .blog-image{
+  width:25%;
+  position: absolute;
 }
 
 .separating-us-container {
@@ -504,6 +509,10 @@ border-radius: 25px;
     font-size: 1.8rem;
     font-weight: 700;
   }
+  .web-product-content-right .blog-image {
+    width: 50%;
+    position: absolute;
+}
   .web-product-lists {
     margin: 40px 0;
   }
