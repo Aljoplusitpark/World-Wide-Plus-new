@@ -76,8 +76,8 @@
       
       <div class="col-lg-6 contact_margin" >
         <div class="contact-form-right-top" >
-            <a href="contact.php" ><p class="active">Quote</p></a> 
-            <a href="prtnership.php"> <p >Partnership</p></a>
+            <a href="contact.php" ><p >Quote</p></a> 
+            <a href="prtnership.php"> <p class="active">Partnership</p></a>
            <a href="general.php"><p>General Enquiry</p></a>
         </div>
         <form id="cs-form" action="https://api.web3forms.com/submit" method="POST" class="row">
