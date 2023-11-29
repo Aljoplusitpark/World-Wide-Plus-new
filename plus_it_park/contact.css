@@ -1,0 +1,24 @@
+.contact-form-right-top {
+  width: 100%;
+  float: right;
+/*  margin: 10px;*/
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  border-bottom: 3px solid #897878;
+  margin-bottom: 20px;
+}
+.contact-form-right-top p.active::after {
+  position: absolute;
+  content: "";
+  bottom: -2px;
+  width: 20%;
+  height: 2px;
+  background-color: #ff3399;
+  display: block;
+}
+.contact_margin{
+  display: flex;
+  flex-direction: column;
+}
