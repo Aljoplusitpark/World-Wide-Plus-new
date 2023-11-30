@@ -2,6 +2,7 @@
   width: 100%;
   height: 1000vh;
   display: flex;
+
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
@@ -72,10 +73,12 @@
   gap: 20px;
   align-items: center;
   justify-content: center;
+
 }
 .web-product-content-right .blob-svg {
   width: 60%;
   position: relative;
+
 }
 .web-product-content-right .blog-image{
   width:25%;
@@ -94,10 +97,11 @@
 }
 .separating-us-header {
   width: 100%;
+
   line-height: 1.5;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+/*  gap: -5px;*/
   justify-content: center;
   align-items: center;
 }
@@ -109,10 +113,11 @@
   width: 100%;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
+/*  gap: 20px;*/
   align-items: center;
   justify-content: center;
-  margin: 60px 0;
+/*  margin: 0px 0;*/
+
 }
 .separating-us-content-left {
   justify-self: flex-start;
@@ -123,7 +128,7 @@
 .separating-us-content-left h3 {
   font-size: 2.8rem;
   font-weight: 700;
-  margin-bottom: 20px;
+/*  margin-bottom: 20px;*/
 }
 .separating-us-content-left button {
   width: 200px;
@@ -149,10 +154,11 @@
   justify-content: center;
 }
 .separating-us-content-right img {
-  width: 500px;
+  width: 450px;
 }
 .separating-us-content-left p{
-  margin-bottom: 150px;
+  margin-bottom: 50px;
+  padding-top: 10px;
 }
 .about-us-container {
   width: 100%;
@@ -532,12 +538,14 @@ border-radius: 25px;
   .web-product-content-left p {
     line-height: 2;
     font-weight: 400;
+
   }
+
   .web-product-content-right img {
     width: 100%;
 
   }
-
+  
   .separating-us-container {
     width: 100%;
    min-height: 80vh;
