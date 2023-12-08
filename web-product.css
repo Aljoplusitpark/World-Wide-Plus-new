@@ -1,6 +1,6 @@
 .stack__card.web-contents {
   width: 100%;
-  height: 1000vh;
+  height: max-content;
   display: flex;
 
   flex-direction: column;
@@ -469,7 +469,7 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
-  padding: 8% 8%;
+  padding: 0% 8%;
   color: var(--white);
   margin: 60px 0;
 }
@@ -507,7 +507,7 @@
     width: 90%;
   }
   .stack__card.web-contents {
-    height: 1420vh;
+    height: max-content;
   }
   .web-product-container {
     width: 100%;
@@ -739,7 +739,7 @@
 }
 @media (min-width: 500px) and (max-width: 768px) {
   .stack__card.web-contents {
-    height: 1380vh;
+    height: max-content;
   }
 }
 .sliderSep-container {

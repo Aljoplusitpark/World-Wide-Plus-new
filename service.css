@@ -72,7 +72,7 @@
   top: 20px;
   left: 50%;
   width: 60%;
-  z-index: 1;
+  z-index: -1;
 }
 @-webkit-keyframes focus-in-expand-fwd {
   0% {
@@ -130,6 +130,6 @@
     position: absolute;
     top: 100px;
     left: 16%;
-    z-index: 1;
+    z-index: -1;
   }
 }
