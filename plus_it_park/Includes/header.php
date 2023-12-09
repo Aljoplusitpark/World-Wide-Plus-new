@@ -32,6 +32,7 @@
                       <li><a href="web_development.php">Web Development</a></li>
                       <li><a href="#">Web 3 Blockchain Development</a></li>
                       <li><a href="#">Mobile App Development</a></li>
+                      <li><a href="mern.html">MERN Stack Development</a></li>
                       <li><a href="digital_marketing.php">Digital Marketing</a></li>
                       <!-- <li><a href="#">Digital Sales Force</a></li> -->
                       <li><a href="#">Industrial 4.O</a></li>
