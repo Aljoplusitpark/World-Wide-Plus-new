@@ -3,7 +3,8 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  margin: 50px 20px;
+  margin: 50px 0px;
+  padding: 0px 20px;
   }
   .item-hover-card-container{
     display: flex;
@@ -104,7 +105,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  margin: 20px 100px;
+  margin: 20px 0px;
+  padding: 0px 100px;
   gap: 20px;
 
   }
@@ -126,7 +128,11 @@
       justify-content: center;
       align-items:center;
     }
-   
+    .card-hover-container-top{
+    padding: 0px 20px;
+
+  
+    }
     .item-hover-card.big , .item-hover-card.small {
       width: 280px;
       height: 320px;

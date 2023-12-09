@@ -2,7 +2,6 @@
 html {
   font-family: sans-serif;
   box-sizing: border-box;
-  
 }
 body{
   margin:0;
@@ -11,6 +10,7 @@ body{
   overflow-x: hidden;
   background: black;
 }
+
 *,
 ::before,
 ::after {
@@ -177,9 +177,7 @@ nav .navbar .links li:hover .js-sub-menu {
 .navbar .links li .sub-menu .more-arrow {
   line-height: 40px;
 }
-.navbar .links li .htmlCss-more-sub-menu {
-  /* line-height: 40px; */
-}
+
 .navbar .links li .sub-menu .more-sub-menu {
   position: absolute;
   top: 0;
@@ -314,9 +312,7 @@ nav .navbar .links li:hover .js-sub-menu {
     color: white;
     font-size: 2rem;
   }
-  nav {
-    /* position: relative; */
-  }
+
   .navbar .bx-menu {
     display: block;
   }

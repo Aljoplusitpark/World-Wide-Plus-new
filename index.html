@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="item-hover-card.css" />
     <link rel="stylesheet" href="footer.css" />
     <link rel="stylesheet" href="horizontal-scroll.css" />
+    <link rel="stylesheet" href="web3-bubble.css" />
     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"> -->
   <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script> -->
   
@@ -162,7 +163,7 @@
         <div class="sep-us-container" >
 
           <div class="separating-us-header">
-            <!-- <p>What Separates Us From The Rest</p> -->
+            <p>What Separates Us From The Rest</p>
             <h3>Separating Us From Herd</h3>
           </div>
           <div class="sliderSep">
@@ -287,13 +288,50 @@
             </ul>
           </div>
         </div>
+        <div class="web3-con">
+          <div class="bubble" id="bubble" style="--top: 50vh; --left: 50vw;">
+            <div class="bubble__rainbow"></div>
+            <div class="bubble__white"></div>
+            <div class="bubble__bright-circle bubble__bright-circle--first"></div>
+            <div class="bubble__bright-circle bubble__bright-circle--second"></div>
+            <div class="bubble__brightness bubble__brightness--first"></div>
+            <div class="bubble__brightness bubble__brightness--second"></div>
+          </div>
+        
+        <script>
+            const bubble = document.getElementById('bubble');
+    
+    const mouseFunction = (mouse) => {
+      const clientX = mouse.clientX ? mouse.clientX : mouse.touches[0].clientX;
+      const clientY = mouse.clientY ? mouse.clientY : mouse.touches[0].clientY;
+      bubble.style = `--top: ${clientY}px; --left: ${clientX}px;`;
+    };
+    
+    window.addEventListener('mousemove', mouseFunction);
+    window.addEventListener('touchstart', mouseFunction);
+        </script>
+        <p>Upgrading old websites to Web 3.0 versions comes with a plethora of advantages that can significantly enhance their functionality, user experience, and overall impact. Here are some key advantages:
+          <br>
+          <br>
+          <br>
+          Enhanced Interactivity and User Experience: Web 3.0 brings forth a more interactive and immersive experience for users. Upgrading allows integration of advanced technologies like AI, augmented reality (AR), virtual reality (VR), and machine learning, enabling richer, more engaging interactions for visitors. This can result in longer on-site engagement, increased user satisfaction, and better conversion rates.
 
+        </p>
+        <button class="magic-hover magic-hover__square">
+          Read More 
+        </button>
+        </div>
+
+
+
+
+<!-- 
           <div class="web-product-container">
           <div class="web-product-header">
             <p>Enter to the safe Digital Realm of Web 3.0</p>
             <h3>Web <span>3.0</span> Products</h3>
           </div>
-          <!-- <div class="web-product-lists">
+           <div class="web-product-lists">
             <div class="web-product-list-item">
               <i class="fa-solid fa-chevron-right"></i>
               <p>Introducing Web 3.0 first time in kerala</p>
@@ -306,20 +344,20 @@
               <i class="fa-solid fa-chevron-right"></i>
               <p>Do business with secured database</p>
             </div>
-          </div> -->
+          </div> 
           <div class="web-product-content">
             <div class="web-product-content-left">
               <p style="text-align:justify; font-size: 20px;" id="text-to-change3">
                 Web 3.0 is a term used to describe the next iteration of the internet, one that is built on blockchain technology and is communally controlled by its users. 3D illustration of a human hand and a digital hand reaching through geometric portals and touching fingertips at the center of the frame.
               </p>
             </div>
-            <!-- <div class="web-product-content-right">
+            <div class="web-product-content-right">
               <img class="blog-svg" src="./assets/images/blob.svg" alt="" />
-              <img class="blog-image" id="blog-image" src="https://imitpark.com/webimg/banner04.webp" alt=""> 
-            </div> -->
+            <img class="blog-image" id="blog-image" src="https://imitpark.com/webimg/banner04.webp" alt=""> 
+            </div>
           </div>
           
-        </div>
+        </div> -->
 
         <div class="card-hover-container">
           <div class="card-hover-container-top">
@@ -487,6 +525,7 @@
             </div>
           </div>
         </div>
+        
         <div class="technologies-implemented-container">
           <div class="technologies-implemented-top">
             <h2>Technologies Implemented</h2>

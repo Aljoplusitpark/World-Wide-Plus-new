@@ -30,6 +30,7 @@
     flex-wrap: nowrap;
     animation: scroll var(--_animation-duration, 40s)
       var(--_animation-direction, forwards) linear infinite;
+      width: 100vw;
   }
   
   .scroller[data-direction="right"] {
@@ -90,3 +91,4 @@
       height: 50px;
     }
   }
+
