@@ -5,7 +5,8 @@
   transform: translate(-50%, -50%);
   padding: 12px 48px;
   color: #fff;
-  background: linear-gradient(to right, #fdfdfd 0, #4f4b4b 10%, #ffffff 20%);
+  /* background: linear-gradient(to right, #fdfdfd 0, #4f4b4b 10%, #ffffff 20%); */
+  background: linear-gradient(to right, #bcb5b5 0, #ffffff 10%, #ff3030 20%);
   background-position: 0;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -23,7 +24,7 @@
 
 .btn-shine p {
   font-size: 2.5rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 .btn-shine h3 {
   font-size: 4rem;
