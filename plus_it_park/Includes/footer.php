@@ -228,14 +228,14 @@
                 <a href="">FAQ</a>
               </li>
               <li>
-                <a href="">Privacy Policy</a>
+                <a href="privacy_policy.php">Privacy Policy</a>
               </li>
               <li>
                 <a href="">Terms of Use</a>
               </li>
-              <li>
+              <!-- <li>
                 <a href="">Privacy Policy</a>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>

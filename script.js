@@ -37,6 +37,10 @@ let jsArrow = document.querySelector(".js-arrow");
 jsArrow.onclick = function() {
  navLinks.classList.toggle("show3");
 }
+let lifeArrow = document.querySelector(".life-arrow");
+lifeArrow.onclick = function() {
+ navLinks.classList.toggle("show4");
+}
 
 
 //stack card

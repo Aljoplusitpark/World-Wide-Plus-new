@@ -45,7 +45,7 @@
     <div class="cs-portfolio_1_heading">
       <div class="cs-section_heading cs-style1">
         <h3 class="cs-section_subtitle">Portfolio</h3>
-        <h2 class="cs-section_title">We Create <br> Digital World</h2>
+        <h2 class="cs-section_title">We Help You To Create and Design Your Own <br>Digital Mansion and Empire.</h2>
       </div>
     </div>
   </div>
@@ -60,97 +60,221 @@
       <div class="cs-isotop_filter cs-style1">
         <ul class="cs-mp0 cs-center">
           <li class="active"><a href="#" data-filter="*">All</a></li>
-          <li><a href="#" data-filter=".web_design">Web Design</a></li>
-          <li><a href="#" data-filter=".ui_ux_design">UI/UX Design</a></li>
-          <li><a href="#" data-filter=".mobile_apps">Mobile Apps</a></li>
-          <li><a href="#" data-filter=".logo_design">Logo Design</a></li>
+          <li><a href="#" data-filter=".web_design">Web 3.0 Development</a></li>
+          <li><a href="#" data-filter=".ui_ux_design">Web Development</a></li>
+          <li><a href="#" data-filter=".mobile_apps">App Development</a></li>
+          <li><a href="#" data-filter=".logo_design">Digital Sales Force</a></li>
         </ul>
       </div>
     </div>
-
+    
 
 
     <div class="cs-height_90 cs-height_lg_15"></div>
     <div class="cs-isotop cs-style1 cs-isotop_col_2 cs-has_gutter_24">
       <div class="cs-grid_sizer"></div>
-      <div class="cs-isotop_item ui_ux_design">
-        <a href="#" class="cs-portfolio cs-style1 cs-type1">
-          <div class="cs-portfolio_hover"></div>
-          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpg"></div>
-          <div class="cs-portfolio_info">
-            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
-            <div class="cs-portfolio_subtitle">See Details</div>
-          </div>
-        </a>
-      </div><!-- .cs-isotop_item -->
-      <div class="cs-isotop_item logo_design">
-        <a href="#" class="cs-portfolio cs-style1 cs-type1">
-          <div class="cs-portfolio_hover"></div>
-          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio_5.jpeg"></div>
-          <div class="cs-portfolio_info">
-            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
-            <div class="cs-portfolio_subtitle">See Details</div>
-          </div>
-        </a>
-      </div><!-- .cs-isotop_item -->
+      <!-- Web 3.0 Development -->
       <div class="cs-isotop_item web_design">
         <a href="#" class="cs-portfolio cs-style1 cs-type1">
           <div class="cs-portfolio_hover"></div>
-          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio/astra.jpg"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio/artees.jpg"></div>
           <!-- <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <h2 class="cs-portfolio_title">Colorful Art Work</h2>
             <div class="cs-portfolio_subtitle">See Details</div>
           </div> -->
         </a>
-      </div><!-- .cs-isotop_item -->
-      <div class="cs-isotop_item cs-w66 mobile_apps">
+      </div>
+      <div class="cs-isotop_item web_design">
         <a href="#" class="cs-portfolio cs-style1 cs-type1">
-          <div class="cs-portfolio_hover"></div>
-          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio_7.jpeg"></div>
-          <div class="cs-portfolio_info">
+          <!-- <div class="cs-portfolio_hover"></div> -->
+          <h2 >ASTRA ICCS</h2>
+          <!-- <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio_9.jpeg"></div> -->
+          <!-- <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <h2 class="cs-portfolio_title">Colorful Art Work</h2>
             <div class="cs-portfolio_subtitle">See Details</div>
-          </div>
+          </div> -->
         </a>
-      </div><!-- .cs-isotop_item -->
+      </div>
+      <!-- /Web 3.0 Development -->
+
+      <!-- Web Development -->
       <div class="cs-isotop_item ui_ux_design">
         <a href="#" class="cs-portfolio cs-style1 cs-type1">
           <div class="cs-portfolio_hover"></div>
-          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio_8.jpeg"></div>
-          <div class="cs-portfolio_info">
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio/astra1.jpeg"></div>
+          <!-- <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <h2 class="cs-portfolio_title">Colorful Art Work</h2>
             <div class="cs-portfolio_subtitle">See Details</div>
-          </div>
-        </a>
-      </div><!-- .cs-isotop_item -->
-      <div class="cs-isotop_item web_design">
-        <a href="#" class="cs-portfolio cs-style1 cs-type1">
-          <div class="cs-portfolio_hover"></div>
-          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio_9.jpeg"></div>
-          <div class="cs-portfolio_info">
-            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
-            <div class="cs-portfolio_subtitle">See Details</div>
-          </div>
+          </div> -->
         </a>
       </div>
-      <!-- .cs-isotop_item -->
-      <div class="cs-isotop_item cs-w66 logo_design">
+      <div class="cs-isotop_item ui_ux_design">
         <a href="#" class="cs-portfolio cs-style1 cs-type1">
           <div class="cs-portfolio_hover"></div>
-          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio_10.jpeg"></div>
+          <h2>ASTRA ICCS</h2>
+          <!-- <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpg"></div>
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <h2 class="cs-portfolio_title">Colorful Art Work</h2>
             <div class="cs-portfolio_subtitle">See Details</div>
-          </div>
+          </div> -->
         </a>
-      </div><!-- .cs-isotop_item -->
+      </div>
+
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="#" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio/artees.jpg"></div>
+          <!-- <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="#" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <h2 >Aartees Group</h2>
+          <!-- <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="http://avardbhavan.org/" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio/avard.jpg"></div>
+          <!-- <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="#" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <h2 >AVARD | Apex Voluntary Agency For Rural Development </h2>
+          <!-- <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="https://intucthrissur.com/" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio/intuc.jpg"></div>
+          <!-- <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="#" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <h2 >INTUC | Indian National Trade Union Congress</h2>
+          <!-- <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="https://intucthrissur.com/" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio/florence.jpg"></div>
+          <!-- <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="#" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <h2 >Florence Academy</h2>
+          <!-- <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+      <!-- / Web Development -->
+
+      <!-- App Development -->
+      <div class="cs-isotop_item mobile_apps">
+        <a href="#" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpeg"></div>
+          <!-- <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+      <div class="cs-isotop_item mobile_apps">
+        <a href="#" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <h2 >Colorful Art Work</h2>
+          <!-- <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio_7.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+      <!-- / App Development -->
+
+       <!-- Digital Marketing -->
+      <div class="cs-isotop_item logo_design">
+        <a href="#" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpeg"></div>
+          <!-- <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+      <div class="cs-isotop_item logo_design">
+        <a href="#" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <h2 >Colorful Art Work</h2>
+          <!-- <div class="cs-portfolio_bg cs-bg" data-src="assets/img/portfolio_5.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div> -->
+        </a>
+      </div>
+      <!-- / Digital Marketing -->
+
+
+      
     </div>
     
   </div>

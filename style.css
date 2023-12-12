@@ -2,7 +2,6 @@
 html {
   font-family: sans-serif;
   box-sizing: border-box;
-  
 }
 body{
   margin:0;
@@ -11,6 +10,7 @@ body{
   overflow-x: hidden;
   background: black;
 }
+
 *,
 ::before,
 ::after {
@@ -112,6 +112,7 @@ nav .navbar .links li a {
   font-weight: 500;
 }
 .links li:hover .htmlcss-arrow,
+.links li:hover .life-arrow,
 .links li:hover .js-arrow {
   transform: rotate(180deg);
   color: white;
@@ -128,6 +129,10 @@ nav .navbar .links li a {
 }
 
 .js-arrow {
+  color: white;
+  padding: 10px;
+}
+.life-arrow {
   color: white;
   padding: 10px;
 }
@@ -162,6 +167,7 @@ nav .navbar .links li .sub-menu {
   z-index: 2;
 }
 nav .navbar .links li:hover .htmlCss-sub-menu,
+nav .navbar .links li:hover .life-sub-menu,
 nav .navbar .links li:hover .js-sub-menu {
   display: block;
 }
@@ -177,9 +183,7 @@ nav .navbar .links li:hover .js-sub-menu {
 .navbar .links li .sub-menu .more-arrow {
   line-height: 40px;
 }
-.navbar .links li .htmlCss-more-sub-menu {
-  /* line-height: 40px; */
-}
+
 .navbar .links li .sub-menu .more-sub-menu {
   position: absolute;
   top: 0;
@@ -314,9 +318,7 @@ nav .navbar .links li:hover .js-sub-menu {
     color: white;
     font-size: 2rem;
   }
-  nav {
-    /* position: relative; */
-  }
+
   .navbar .bx-menu {
     display: block;
   }
@@ -378,7 +380,8 @@ nav .navbar .links li:hover .js-sub-menu {
     justify-content: space-between;
   }
   .links li:hover .htmlcss-arrow,
-  .links li:hover .js-arrow {
+  .links li:hover .js-arrow,
+  .links li:hover .life-arrow{
     transform: rotate(0deg);
     color: white;
   }
@@ -395,15 +398,18 @@ nav .navbar .links li:hover .js-sub-menu {
     display: none;
   }
   nav .navbar .links li:hover .htmlCss-sub-menu,
-  nav .navbar .links li:hover .js-sub-menu {
+  nav .navbar .links li:hover .js-sub-menu ,
+  nav .navbar .links li:hover .life-sub-menu {
     display: none;
   }
   .navbar .nav-links.show1 .links .htmlCss-sub-menu,
   .navbar .nav-links.show3 .links .js-sub-menu,
+  .navbar .nav-links.show4 .links .life-sub-menu,
   .navbar .nav-links.show2 .links .more .more-sub-menu {
     display: block;
   }
   .navbar .nav-links.show1 .links .htmlcss-arrow,
+  .navbar .nav-links.show4 .links .life-arrow,
   .navbar .nav-links.show3 .links .js-arrow {
     transform: rotate(180deg);
     color: white;
