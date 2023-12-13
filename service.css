@@ -3,6 +3,7 @@
 .service-stack {
   height: 400vh;
   width: 100%;
+  display:block;
 }
 .service-container {
   height: 100%;
@@ -108,7 +109,11 @@
     opacity: 1;
   }
 }
+.service-stack-mob{
+  display:none;
+}
 @media screen and (max-width: 768px) {
+
   .service-screen-content h3 {
     font-size: 2.5rem;
     font-weight: 600;
@@ -117,6 +122,41 @@
     font-size: 1.3rem;
     font-weight: 300;
     line-height: 1.5;
+  }
+  .service-stack {
+   display: none;
+  }
+  .service-stack-mob{
+    display:block;
+    width:100%;
+    color: white;
+  }
+  .service-screen-content-mob a{
+    color: white;
+    text-decoration: none;
+    display: flex;
+   
+    align-items: center;
+    gap: 10px;
+  }
+  .service-screen-content-mob a i{
+    color: white;
+   
+  }
+  .service-screen-content-mob h3{
+    font-size: 3rem;
+    font-weight: 200;
+  }
+  .service-screen-content-mob p{
+    font-size: .9rem;
+    font-weight: 200;
+  }
+  .service-screen-content-mob{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-bottom: 1px solid #ffffff21;
   }
 
   .service-screen-content {
