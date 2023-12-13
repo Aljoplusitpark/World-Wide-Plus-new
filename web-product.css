@@ -301,6 +301,9 @@
   font-weight: 700;
   font-size: 2.5rem;
 }
+.our-client-button.clan{
+  align-self: flex-start;
+}
 .our-client-button {
   padding: 20px 60px;
   background-color: transparent;

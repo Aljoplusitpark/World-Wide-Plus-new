@@ -34,6 +34,7 @@ moreArrow.onclick = function() {
  navLinks.classList.toggle("show2");
 }
 let jsArrow = document.querySelector(".js-arrow");
+console.log(jsArrow);
 jsArrow.onclick = function() {
  navLinks.classList.toggle("show3");
 }
