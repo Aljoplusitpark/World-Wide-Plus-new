@@ -131,8 +131,8 @@
         <div class="about-container">
           <div class="about-background">
             <div class="about-screen-content">
-              <h3>#Differentiated insights</h3>
-              <p style="text-align: justify;">
+              <h3 id="tag-h-to-change">#Differentiated insights</h3>
+              <p  id="tag-p-to-change" style="text-align: justify;">
                 The Synergy of AI and Human Intuition By leveraging AI for data
                 analysis and generating insights, human intuition can be used to
                 validate, refine, and contextualize these findings. The fusion
@@ -140,7 +140,10 @@
                 effective decisions
               </p>
               <form action="#">
-                <button style="padding: 20px 60px; background-color: var(--pink); border: none; border-radius: 10px; color: var(--white); font-size: 1.2rem; font-weight: 500; cursor: pointer; transition: all 0.3s ease;">Explore More</button>
+                <a href="#"  id="tag-b-to-change">
+
+                  <button style="padding: 20px 60px; background-color: var(--pink); border: none; border-radius: 10px; color: var(--white); font-size: 1.2rem; font-weight: 500; cursor: pointer; transition: all 0.3s ease;">Explore More</button>
+                </a>
               </form>
             </div>
           </div>
@@ -463,6 +466,12 @@
                 waterskier, cruising along the coast or whipping in and out of tight corners. With top speeds of up to 
                 53 mph/85 kph, jumping aboard a Turbojet and firing up the engine is a thrill you will never tire of.
               </p>
+              <a href="#" style="text-decoration: none;align-self: flex-start;">
+
+                <div class="our-client-button clan magic-hover magic-hover__square">
+                  <span>View More</span> <i class="fa-solid fa-arrow-right"></i>
+                </div>
+              </a>
             </div>
           </div>
         </div>
@@ -591,7 +600,10 @@
           <div class="footer-col-1">
             <div class="footer-col-1-container">
               <div class="footer-logo">
-                <img src="assets/images/logo.png" alt="logo" style="width: 200px;">
+                <a href="#">
+
+                  <img src="assets/images/logo.png" alt="logo" style="width: 200px;">
+                </a>
                 <!-- <h1>Plus IT park</h1> -->
               </div>
               <div class="footer-col-1-content">
@@ -963,6 +975,67 @@ window.addEventListener("scroll", handleScroll);
       setInterval(scrollslider1, 3000);
 //slider sep us
 
+//taglines
+const TagHeadingArray = [
+        "Feel the energy of reaching shores of Digital ocean of opportunities..",
+        "Be confident and comfortable with the security features for your internet products.",
+        "Maintain the flow and the culture of your business.",
+        "Explore and expand your market to the digital horizon.",
+        "Have differentiated Insights always for the cryptosphere.",
+        "The art of process optimization Engineering.",
+        "Start your Digital life journey with",
+      ];
+const TagPArray = [
+"Feel the energy of reaching shores of Digital ocean of opportunities..",
+        "Be confident and comfortable with the security features for your internet products.",
+        "Maintain the flow and the culture of your business.",
+        "Explore and expand your market to the digital horizon.",
+        "Have differentiated Insights always for the cryptosphere.",
+        "The art of process optimization Engineering.",
+        "Start your Digital life journey with",
+     
+      ];
+const TagBArray = [
+"Feel the energy of reaching shores of Digital ocean of opportunities..",
+        "Be confident and comfortable with the security features for your internet products.",
+        "Maintain the flow and the culture of your business.",
+        "Explore and expand your market to the digital horizon.",
+        "Have differentiated Insights always for the cryptosphere.",
+        "The art of process optimization Engineering.",
+        "Start your Digital life journey with",
+     
+      ];
+
+      const TagToChangeH = document.getElementById("tag-h-to-change");
+const TagToChangeP = document.getElementById("tag-p-to-change");
+const TagToChangeB = document.getElementById("tag-b-to-change");
+
+let tagIndex2 = 0;
+// let tagIndex3 = 0;
+// let tagIndex4 = 0;
+
+function changeTag() {
+  TagToChangeH.textContent = TagHeadingArray[tagIndex2];
+  TagToChangeP.textContent = TagPArray[tagIndex2];
+  TagToChangeB.href = TagBArray[tagIndex2];
+  tagIndex2 = (tagIndex2 + 1) % TagHeadingArray.length;
+}
+
+// function changeTagP() {
+//   BlogToChange3.textContent = web3Array[index4];
+
+//   index4 = (index4 + 1) % web3Array.length;
+// }
+// function changeTagB() {
+//   BlogToChange3.textContent = web3Array[index4];
+//   index4 = (index4 + 1) % web3Array.length;
+// }
+
+setInterval(changeTag, 5000); // 5 seconds
+// setInterval(changeTagP, 5000); // 5 seconds
+// setInterval(changeTagB, 5000); // 5 seconds
+
+
 
 
 //our clients
@@ -985,11 +1058,17 @@ function updateContent() {
     './assets/images/cxo.jpg',
     './assets/images/cto.jpg',
   ];
-
+  const viewClan = [
+    "chairman.html",
+    "ceo.html",
+    "cxo.html",
+    "cto.html",
+  ]
   // Update HTML content with new data
   document.querySelector('.our-clan-right h4').textContent = names[currentIndex];
   // document.querySelector('.our-clan-right h3').textContent = members[currentIndex];
   document.querySelector('.our-clan-right p').textContent = descriptions[currentIndex];
+  document.querySelector('.our-clan-right a').href = viewClan[currentIndex];
   document.querySelector('.our-clan-left img').src = images[currentIndex];
   document.querySelector('.our-clan-left img').alt = `Image of ${names[currentIndex]}`;
 
