@@ -234,7 +234,7 @@
                 <a href="refund_policy.php">Refund Policy</a>
               </li>
               <li>
-                <a href="">Terms and Conditions</a>
+                <a href="terms_and_conditions.php">Terms and Conditions</a>
               </li>
               <!-- <li>
                 <a href="">Privacy Policy</a>
