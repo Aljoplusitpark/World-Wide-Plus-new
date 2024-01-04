@@ -59,7 +59,16 @@
         </div>
         <div class="swiper-slide">
           <div class="cs-hero cs-style5">
-            <figure class="cs-swiper_parallax_bg" data-src="assets/img/ev.jpeg"><img src="assets/img/ev.jpeg" alt="Slider" class="cs-entity_img"></figure>
+            <figure class="cs-swiper_parallax_bg" data-src="assets/img/ev.jpeg"><img src="assets/img/eve.jpeg" alt="Slider" class="cs-entity_img"></figure>
+            <div class="cs-hero_text">
+              <h2 class="cs-hero_title"> <br></h2>
+              <!-- <a href="case-study.html" class="cs-btn cs-style1 cs-type1"><span></span></a> -->
+            </div>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="cs-hero cs-style5">
+            <figure class="cs-swiper_parallax_bg" data-src="assets/img/life_at_plus/christmas.jpg"><img src="assets/img/ev.jpeg" alt="Slider" class="cs-entity_img"></figure>
             <div class="cs-hero_text">
               <h2 class="cs-hero_title"> <br></h2>
               <!-- <a href="case-study.html" class="cs-btn cs-style1 cs-type1"><span></span></a> -->
