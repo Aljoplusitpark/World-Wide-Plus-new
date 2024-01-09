@@ -1,3 +1,4 @@
+<link rel="icon" href="../assets/images/favicon.png" type="image/x-icon">
 <header class="cs-site_header cs-style1 text-uppercase cs-sticky_header">
       
 

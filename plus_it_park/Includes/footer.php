@@ -47,6 +47,10 @@
                       </button>
                     </form>
                   </div>
+                  <br>
+                  <div>
+                    <img src="../assets/images/Plus IT Park-Rating Badge 2 on AmbitionBox.png">
+                  </div>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
