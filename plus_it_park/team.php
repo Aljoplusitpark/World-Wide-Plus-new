@@ -56,12 +56,12 @@
         <div class="col-lg-3 col-sm-6">
           <div class="cs-team cs-style1">
             <div class="cs-member_thumb">
-              <img src="assets/img/member_1.jpeg" alt="Member">
+              <img src="assets/img/Team/team.jpg" alt="Member">
               <div class="cs-member_overlay"></div>
             </div>
             <div class="cs-member_info">
-              <h2 class="cs-member_name"><a href="team-details.html">Melon Bulgery</a></h2>
-              <div class="cs-member_designation">Product Designer</div>
+              <h2 class="cs-member_name"><a href="#">Sreejesh R</a></h2>
+              <div class="cs-member_designation">Block Chain Developer</div>
             </div>
             <div class="cs-member_social cs-primary_color">
               <a href="#">
@@ -91,12 +91,12 @@
         <div class="col-lg-3 col-sm-6">
           <div class="cs-team cs-style1">
             <div class="cs-member_thumb">
-              <img src="assets/img/member_2.jpeg" alt="Member">
+              <img src="assets/img/Team/team-1.jpg" alt="Member">
               <div class="cs-member_overlay"></div>
             </div>
             <div class="cs-member_info">
-              <h2 class="cs-member_name"><a href="team-details.html">Olinaz Fushi</a></h2>
-              <div class="cs-member_designation">Project Manager</div>
+              <h2 class="cs-member_name"><a href="#">Aljo Antony</a></h2>
+              <div class="cs-member_designation">Web Developer</div>
             </div>
             <div class="cs-member_social cs-primary_color">
               <a href="#">
@@ -131,7 +131,7 @@
               <div class="cs-member_overlay"></div>
             </div>
             <div class="cs-member_info">
-              <h2 class="cs-member_name"><a href="team-details.html">David Elone</a></h2>
+              <h2 class="cs-member_name"><a href="#">David Elone</a></h2>
               <div class="cs-member_designation">React Developer</div>
             </div>
             <div class="cs-member_social cs-primary_color">
@@ -166,7 +166,7 @@
               <div class="cs-member_overlay"></div>
             </div>
             <div class="cs-member_info">
-              <h2 class="cs-member_name"><a href="team-details.html">Melina Opole</a></h2>
+              <h2 class="cs-member_name"><a href="#">Melina Opole</a></h2>
               <div class="cs-member_designation">WP Developer</div>
             </div>
             <div class="cs-member_social cs-primary_color">
@@ -201,7 +201,7 @@
               <div class="cs-member_overlay"></div>
             </div>
             <div class="cs-member_info">
-              <h2 class="cs-member_name"><a href="team-details.html">David Elone</a></h2>
+              <h2 class="cs-member_name"><a href="#">David Elone</a></h2>
               <div class="cs-member_designation">React Developer</div>
             </div>
             <div class="cs-member_social cs-primary_color">
@@ -236,7 +236,7 @@
               <div class="cs-member_overlay"></div>
             </div>
             <div class="cs-member_info">
-              <h2 class="cs-member_name"><a href="team-details.html">Melina Opole</a></h2>
+              <h2 class="cs-member_name"><a href="#">Melina Opole</a></h2>
               <div class="cs-member_designation">WP Developer</div>
             </div>
             <div class="cs-member_social cs-primary_color">
@@ -276,7 +276,7 @@
               <div class="cs-member_overlay"></div>
             </div>
             <div class="cs-member_info">
-              <h2 class="cs-member_name"><a href="team-details.html">Melon Bulgery</a></h2>
+              <h2 class="cs-member_name"><a href="#">Melon Bulgery</a></h2>
               <div class="cs-member_designation">Product Designer</div>
             </div>
             <div class="cs-member_social cs-primary_color">
@@ -311,7 +311,7 @@
               <div class="cs-member_overlay"></div>
             </div>
             <div class="cs-member_info">
-              <h2 class="cs-member_name"><a href="team-details.html">Olinaz Fushi</a></h2>
+              <h2 class="cs-member_name"><a href="#">Olinaz Fushi</a></h2>
               <div class="cs-member_designation">Project Manager</div>
             </div>
             <div class="cs-member_social cs-primary_color">

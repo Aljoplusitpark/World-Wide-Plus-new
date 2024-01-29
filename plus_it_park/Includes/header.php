@@ -31,12 +31,12 @@
                     <a href="services.php">What We Do</a>
                     <ul>
                       <li><a href="web_development.php">Web Development</a></li>
-                      <li><a href="#">Web 3 Blockchain Development</a></li>
+                      <li><a href="web_3_d">Web 3 Blockchain Development</a></li>
                       <li><a href="flutter.php">Mobile App Development</a></li>
                       <li><a href="mern.php">MERN Stack Development</a></li>
                       <li><a href="digital_marketing.php">Digital Marketing</a></li>
                       <!-- <li><a href="#">Digital Sales Force</a></li> -->
-                      <li><a href="#">Industrial 4.O</a></li>
+                      <li><a href="industrial.php">Industrial 4.O</a></li>
                       <li><a href="internship.php">Training Program</a></li>
                       <!-- <li><a href="#">Study Tours</a></li> -->
                       <!-- <li><a href="#">D-Schooling</a></li>
@@ -49,26 +49,26 @@
                   <li class="menu-item-has-children">
                     <a href="#">Organization</a>
                     <ul>
-                      <li><a href="#">Type 07 Technocrats</a></li>
+                      <li><a href="Technocrats.php">Type 07 Technocrats</a></li>
                       <li><a href="wus.php">Web Updates - Wus</a></li>
-                      <li><a href="#">Digital Sales Force - DSF</a></li>
-                      <li><a href="#">De Schooling</a></li>
-                      <li><a href="#">Langaa</a></li>
-                      <li><a href="#">9 3/4 Quarters</a></li>
-                      <li><a href="#">Sathoshi Gangz - Community</a></li>
+                      <li><a href="digital_sales_force.php">Digital Sales Force - DSF</a></li>
+                      <li><a href="de_schooling.php">De Schooling</a></li>
+                      <li><a href="laangaa.php">Langaa</a></li>
+                      <li><a href="nine_three.php">9 3/4 Quarters</a></li>
+                      <li><a href="sathoshi.php">Sathoshi Gangz - Community</a></li>
                     </ul>
                   </li>
                   <li class="menu-item-has-children">
                     <a href="life at plus.php">Life at Plus IT Park</a>
                     <ul>
-                      <li><a href="#">Events & Cultural Programs</a></li>
-                      <li><a href="#">Blog</a></li>
-                      <li><a href="#">Testimonials</a></li>
+                      <li><a href="event.php">Events & Cultural Programs</a></li>
+                      <li><a href="blog.php">Blog</a></li>
+                      <li><a href="testimonial.php">Testimonials</a></li>
                     </ul>
                   </li>
                   <li><a href="#"><i class="fa-solid fa-magnifying-glass"></i></a></li>
                   <li><a href="#"><i class="fa-solid fa-bookmark"></i></li>
-                  <li class="#"><a href="">Lets Talk</a></li>
+                  <li><a href="contact.php">Lets Talk</a></li>
                   <div class="cs-main_header_right">
                     <div class="cs-toolbox">
                       <button class="btn" style="color:white;"><a href="#">Estimate</a></button>
